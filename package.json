@@ -1,0 +1,19 @@
+{
+  "name": "infinite-scroll-intersection-observer-vanilla-js-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidvelavi/infinite-scroll-intersection-observer-vanilla-js-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidvelavi/infinite-scroll-intersection-observer-vanilla-js-/issues"
+  },
+  "homepage": "https://github.com/davidvelavi/infinite-scroll-intersection-observer-vanilla-js-#readme"
+}
